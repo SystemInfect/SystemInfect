@@ -1,8 +1,10 @@
-<!-- https://github.com/Smug246/ -->
-<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
+<!-- https://github.com/SystemInfect/ -->
+<!-- Deja una estrella si te gusta ! -->
 
 <h1 align="center">Hola 👋 Soy SystemInfect</h1>
 <h3 align="center">Soy developer, y controlo algunas lenguas informaticas</h3>
+
+
 
 - 🌱 Ahora estoy aprendiendo **C++**
 
